@@ -24,10 +24,7 @@ def add_list_numbers(incoming_list):
     Required parameter, incoming_list, should be a list.
     Add all the values together and return it.
     """
-    if incoming_list is None
-         return 0
-    list_value = sum(incoming_list)
-    return list_value
+    return sum(incoming_list)
     pass
 
 
